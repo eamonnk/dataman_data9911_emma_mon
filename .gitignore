@@ -85,3 +85,28 @@ _site/
 *.log
 *.tmp
 *.bak
+# Word temp files
+~$*.doc
+~$*.docx
+
+# PowerPoint temp files
+~$*.ppt
+~$*.pptx
+
+# Excel temp files
+~$*.xls
+~$*.xlsx
+
+# Office auto-recovery files
+*.tmp
+*.temp
+*.wbk
+
+# ========================
+# PDF temporary / lock files
+# ========================
+
+# Adobe temporary files
+~$*.pdf
+*.pdf.tmp
+*.pdf~
