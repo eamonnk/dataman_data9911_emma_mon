@@ -1,0 +1,100 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Document rdf:about="https://www.anthropic.com/system-cards">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_33"/>
+        <dc:title>Model system cards</dc:title>
+        <dcterms:abstract>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.anthropic.com/system-cards</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 03:20:26</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.anthropic.com/system-cards</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 03:20:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>c788cbc0a3da9135112f97cdf6dcd06f2c16cee2.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www-cdn.anthropic.com/c788cbc0a3da9135112f97cdf6dcd06f2c16cee2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 03:20:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>claudes-constitution_webPDF_26-01.26a.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www-cdn.anthropic.com/cffd979fd050fbc0d8874b8c58b24cc10554e208/claudes-constitution_webPDF_26-01.26a.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 03:21:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.anthropic.com/news/protecting-well-being-of-users">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_37"/>
+        <dc:title>Protecting the wellbeing of our users</dc:title>
+        <dcterms:abstract>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.anthropic.com/news/protecting-well-being-of-users</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 04:14:16</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.anthropic.com/news/protecting-well-being-of-users</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 04:14:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_38">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>https://www-cdn.anthropic.com/cffd979fd050fbc0d8874b8c58b24cc10554e208/claudes-constitution_webPDF_26-01.26a.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www-cdn.anthropic.com/cffd979fd050fbc0d8874b8c58b24cc10554e208/claudes-constitution_webPDF_26-01.26a.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 09:03:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
