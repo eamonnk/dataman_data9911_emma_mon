@@ -1,0 +1,557 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <bib:Document rdf:about="https://www.revolut.com/en-IE/legal/privacy/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_47"/>
+        <dc:title>Customer Privacy Notice | Revolut Ireland</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/en-IE/legal/privacy/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:56:11</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/47/privacy.html"/>
+        <dc:title>Customer Privacy Notice | Revolut Ireland</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/en-IE/legal/privacy/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:56:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/en-IE/legal/tailored-ads-privacy-notice/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Revolut</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_49"/>
+        <dc:title>Tailored Lifestyle Ads and Notifications | Revolut Ireland</dc:title>
+        <dcterms:abstract>Revolut terms and policies</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.revolut.com/en-IE/legal/tailored-ads-privacy-notice/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:56:39</dcterms:dateSubmitted>
+        <z:language>en-IE</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/49/tailored-ads-privacy-notice.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.revolut.com/en-IE/legal/tailored-ads-privacy-notice/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:56:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_51">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_50"/>
+        <dc:title>Tailored Lifestyle Ads and Notifications</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_50">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/50/Tailored Lifestyle Ads and Notifications.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://cdn.revolut.com/terms_and_conditions/pdf/tailored_lifestyle_ads_and_notifications_c5279213_2.1.0_1770742688_en.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:57:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/en-IE/about/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_57"/>
+        <dc:title>About us | Revolut Ireland</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/en-IE/about/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:57:26</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/57/about.html"/>
+        <dc:title>About us | Revolut Ireland</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/en-IE/about/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:58:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/en-IE/personal-loans/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Revolut</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_54"/>
+        <dc:title>Personal Loans | Apply for a Loan | Revolut Ireland</dc:title>
+        <dcterms:abstract>Apply for Revolut personal loans between €2,000 and €30,000. It’s free to start your loan application and we’ll always tell you all costs upfront.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.revolut.com/en-IE/personal-loans/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:57:51</dcterms:dateSubmitted>
+        <z:language>en-IE</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/54/personal-loans.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.revolut.com/en-IE/personal-loans/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:58:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/sustainability/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Revolut</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_56"/>
+        <dc:title>Sustainability | Revolut United Kingdom</dc:title>
+        <dcterms:abstract>Sustainability at Revolut. Here's what we do to help the planet 🌎</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/sustainability/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:58:09</dcterms:dateSubmitted>
+        <z:language>en-GB</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/56/sustainability.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/sustainability/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:58:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/our-culture/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Revolut</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_61"/>
+        <dc:title>Our culture | Revolut United Kingdom</dc:title>
+        <dcterms:abstract>Transforming the way you do money can be a great challenge, and at Revolut, we believe in two things to make it happen: our people and our culture. When talented people work in a great culture, success is the only option.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/our-culture/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:58:53</dcterms:dateSubmitted>
+        <z:language>en-GB</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_61">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/61/our-culture.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/our-culture/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:59:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/diversity-inclusion/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_63"/>
+        <dc:title>Diversity, Equity, and Inclusion | Revolut United Kingdom</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/diversity-inclusion/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:59:29</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_63">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/63/diversity-inclusion.html"/>
+        <dc:title>Diversity, Equity, and Inclusion | Revolut United Kingdom</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/diversity-inclusion/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 01:59:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://eur-lex.europa.eu/EN/legal-content/summary/european-single-access-point.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_65"/>
+        <dc:title>European single access point | EUR-Lex</dc:title>
+        <dc:date>2027-07-10</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://eur-lex.europa.eu/EN/legal-content/summary/european-single-access-point.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:00:30</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dc:description>Doc ID: 4740185
+Doc Sector: other
+Doc Title: European single access point
+Doc Type: other
+Usr_lan: en</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/65/european-single-access-point.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://eur-lex.europa.eu/EN/legal-content/summary/european-single-access-point.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:00:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://cro.ie/annual-return/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>CRO</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_67"/>
+        <dc:title>Annual Return</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://cro.ie/annual-return/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:00:55</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_67">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/67/annual-return.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://cro.ie/annual-return/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:01:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/en-IE/financial-statements/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_69"/>
+        <dc:title>Financial Statements | Revolut Ireland</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.revolut.com/en-IE/financial-statements/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:01:15</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_69">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/69/financial-statements.html"/>
+        <dc:title>Financial Statements | Revolut Ireland</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.revolut.com/en-IE/financial-statements/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:01:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/70/RHE_Quarterly_Financial_Report_Q2_2025_EN.pdf"/>
+        <dc:title>RHE_Quarterly_Financial_Report_Q2_2025_EN.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://assets.revolut.com/pdf/RHE_Quarterly_Financial_Report_Q2_2025_EN.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:01:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/71/Guidance note on cookies and other tracking technologies.pdf"/>
+        <dc:title>Guidance note on cookies and other tracking technologies.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.dataprotection.ie/sites/default/files/uploads/2020-04/Guidance%20note%20on%20cookies%20and%20other%20tracking%20technologies.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:04:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://gdpr.eu/cookies/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>GDPR.eu</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koch</foaf:surname>
+                        <foaf:givenName>Richie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_73"/>
+        <dc:title>Cookies, the GDPR, and the ePrivacy Directive</dc:title>
+        <dcterms:abstract>Cookies can give businesses insight into their users’ online activity. Unforunately they are subject to both the GDPR and the ePrivacy Directive, making compliance difficult.</dcterms:abstract>
+        <dc:date>2019-05-09T13:56:35+00:00</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://gdpr.eu/cookies/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:05:25</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_73">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/73/cookies.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://gdpr.eu/cookies/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:05:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.crif.ie/automated-kyc-aml-and-pep-checks/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_75"/>
+        <dc:title>Automated KYC, AML and PEP Checks</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.crif.ie/automated-kyc-aml-and-pep-checks/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:12:01</dcterms:dateSubmitted>
+        <z:language>en-IE</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/75/automated-kyc-aml-and-pep-checks.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.crif.ie/automated-kyc-aml-and-pep-checks/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:12:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://artificialintelligenceact.eu/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_77"/>
+        <dc:title>EU Artificial Intelligence Act | Up-to-date developments and analyses of the EU AI Act</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://artificialintelligenceact.eu/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:13:43</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/77/artificialintelligenceact.eu.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://artificialintelligenceact.eu/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:14:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_78">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/78/Revolut_Success_Story.pdf"/>
+        <dc:title>Revolut_Success_Story.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.vision-net.ie/emails/brochures/Revolut_Success_Story.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 02:14:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_80">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Linsenmeier</foaf:surname>
+                        <foaf:givenName>Rob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_79"/>
+        <dc:title>A Brief Introduction to Ethical Theories and Frameworks</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/79/Linsenmeier - A Brief Introduction to Ethical Theories and Frameworks.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mccormick.northwestern.edu/research/engineering-education-research-center/documents/events/insight-xiii/ethics-frameworks-and-philosophies-edit.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 04:48:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/code-of-conduct/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Revolut</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_84"/>
+        <dc:title>Code of conduct | Revolut United Kingdom</dc:title>
+        <dcterms:abstract>Code of conduct</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/code-of-conduct/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 05:27:15</dcterms:dateSubmitted>
+        <z:language>en-GB</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_84">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/84/code-of-conduct.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.revolut.com/code-of-conduct/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 05:27:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_85">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/85/Revolut_Consumer_Security_Insight_Report_2023.pdf"/>
+        <dc:title>Revolut_Consumer_Security_Insight_Report_2023.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://assets.revolut.com/pdf/Revolut_Consumer_Security_Insight_Report_2023.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 08:35:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.revolut.com/en-IE/legal/conflict-of-interest/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Revolut</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_87"/>
+        <dc:title>Conflict of Interest Disclosure | Revolut Ireland</dc:title>
+        <dcterms:abstract>Revolut terms and policies</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.revolut.com/en-IE/legal/conflict-of-interest/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 08:41:26</dcterms:dateSubmitted>
+        <z:language>en-IE</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_87">
+        <z:itemType>attachment</z:itemType>
+        <z:path rdf:resource="files/87/conflict-of-interest.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.revolut.com/en-IE/legal/conflict-of-interest/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-09 08:41:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>

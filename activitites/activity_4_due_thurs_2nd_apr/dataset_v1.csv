@@ -1,0 +1,21 @@
+﻿UserID,Age,City,Primary Transport,Has Disability,Tech Confidence
+U001,34,London,Bus,No,DSE3
+U002,28,Leeds,Train,No,DSE5
+U003,52,Manchester,Bus,No,DSE2
+U004,23,Bristol,Scooter,No,DSE5
+U005,47,London,Train,No,DSE1
+U006,39,Birmingham,Bus,Prefer not to say,DSE4
+U007,60,London,Bus,No,DSE2
+U008,31,Manchester,Walk,No,DSE5
+U009,44,Sheffield,Bicycle,No,DSE4
+U010,55,London,Bus,No,DSE1
+U011,29,Liverpool,Walk,No,DSE4
+U012,62,Leeds,Bus,No,DSE1
+U013,25,Bristol,Scooter,No,DSE3
+U014,41,London,Train,No,DSE4
+U015,33,Manchester,Bicycle,Prefer not to say,DSE2
+U016,58,Birmingham,Bus,No,DSE1
+U017,27,Sheffield,Walk,No,DSE5
+U018,36,London,Bus,No,DSE3
+U019,48,Leeds,Train,No,DSE2
+U020,54,Manchester,Bus,No,DSE1
